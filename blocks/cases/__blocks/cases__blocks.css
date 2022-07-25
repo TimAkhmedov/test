@@ -1,0 +1,7 @@
+.cases__blocks {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 0;
+	width: 1170px;
+}

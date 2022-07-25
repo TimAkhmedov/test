@@ -1,0 +1,6 @@
+.info__about {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 135px;
+	padding-bottom: 100px;
+}
