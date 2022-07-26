@@ -2,5 +2,5 @@
     font-family: "Montserrat";
     font-style: normal;
     font-weight: 500;
-    src: url(/vendor/fonts/Montserrat-Medium.ttf);
+    src: url("/vendor/fonts/Montserrat-Medium.ttf") format("ttf");
 }
