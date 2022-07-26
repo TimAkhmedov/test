@@ -1,6 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
-@import url(https://db.onlinewebfonts.com/c/11289a678c4607112a7ffdb6b86812c8?family=Druk+Wide+Cy+Bold);
+@import url(//db.onlinewebfonts.com/c/11289a678c4607112a7ffdb6b86812c8?family=Druk+Wide+Cy+Bold);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
